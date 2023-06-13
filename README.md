@@ -16,7 +16,7 @@
 
 [![Colm's GitHub stats](https://github-readme-stats.vercel.app/api?username=colmduff&count_private=true)](https://github.com/colmduff/github-readme-stats)
 
-[![Colm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colmduff)](https://github.com/colmduff/github-readme-stats)
+[![Colm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colmduff&count_private=true)](https://github.com/colmduff/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
