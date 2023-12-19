@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colmduff&label=Profile%20views&color=0e75b6&style=flat" alt="colmduff" /> </p>
 
 
-- 🔭 I’m currently working on [EIRFLUX](www.eirflux.ie)
+- 🔭 I’m currently working on land use/land use change projects with the [FUSION](https://fusion-research.eu/) research group.
 
 - 🌱 I’m currently learning **AI with python**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Land use modelling, GHG emissions and python**
 
-- 📫 How to reach me **colm.duffy@ul.ie**
+- 📫 How to reach me **colm.duffy@universityofgalway.ie**
 
 [![Colm's GitHub stats](https://github-readme-stats.vercel.app/api?username=colmduff&count_private=true)](https://github.com/colmduff/github-readme-stats)
 
