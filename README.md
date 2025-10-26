@@ -2,7 +2,8 @@
 <h3 align="center">Land Use Systems Modeller | Environmental Researcher | Open-Source Developer</h3>
 
 <p align="center">
-  <a href="https://colm-duffy.ie/">🌍 Website</a> •
+  <a href="https://scholar.google.com/citations?user=Rqj7SVcAAAAJ&hl=en">Google Scholar</a> •
+  <a href="https://orcid.org/0000-0002-0076-6749">ORCID</a> •
   <a href="https://www.linkedin.com/in/colm-duffy-06b99371/">LinkedIn</a> •
   <a href="mailto:colm.duffy@universityofgalway.ie">Email</a>
 </p>
